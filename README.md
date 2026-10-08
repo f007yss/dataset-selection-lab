@@ -29,7 +29,7 @@ Given a health question and a search method, predict whether the method fails to
 
 ## How to Run
 
-1. Open `MedQuAD_Dataset_Selection_Lab.ipynb` in Google Colab (File > Open notebook > GitHub, then paste this repo's URL).
+1. Open `Dataset_Selection_Lab_Childress.ipynb` in Google Colab (File > Open notebook > GitHub, then paste this repo's URL).
 2. Run all cells. The notebook downloads MedQuAD from GitHub and installs `rank_bm25` itself.
 
 Runtime is about 3 to 5 minutes. Most of that is the BM25 search over 2,000 questions.
@@ -38,5 +38,5 @@ Runtime is about 3 to 5 minutes. Most of that is the BM25 search over 2,000 ques
 
 | File | Description |
 |---|---|
-| `MedQuAD_Dataset_Selection_Lab.ipynb` | Data import, structure, data quality, target creation, descriptive statistics, visualizations, and project plan |
+| `Dataset_Selection_Lab_Childress.ipynb` | Data import, structure, data quality, target creation, descriptive statistics, visualizations, and project plan |
 | `requirements.txt` | Python packages used |
