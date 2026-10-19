@@ -1,3 +1,4 @@
+# Core
 pandas
 numpy
 scipy
@@ -6,4 +7,4 @@ seaborn
 scikit-learn
 statsmodels
 xgboost
-rank_bm25
+openpyxl  # only needed to upload Excel files
